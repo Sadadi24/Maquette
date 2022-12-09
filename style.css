@@ -1,0 +1,486 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+/*Haut de page */
+
+header{
+    display: flex;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    justify-content: space-between;
+    
+}
+h2{
+    color: #04313d;
+    
+}
+h4{
+    color: #04313d;
+    ;
+}
+h3{
+    color: #04313d;
+    
+}
+
+    
+
+
+.imgevnt img{
+    width: 100%;
+
+}
+.hubs ul{
+    list-style-type: none;
+    padding-left: 0px;
+}
+.hubs li{
+    color: rgb(194, 207, 219);
+    border-radius: 3px;
+    padding: 5px;
+    
+    
+}
+.imgmap{
+    width: 850px;
+}
+.optics{
+    background-color: rgba(6, 60, 92, 0.783);
+    width: fit-content;
+    color: white;
+    margin-bottom: 30px;
+}
+
+
+
+.violet{
+    background-color: #6d349baf;
+    width: fit-content;
+}
+.bleu{
+    background-color:#318Ce7;
+    width: fit-content;
+}
+.bleuFonce{
+    background-color: #073c5d;
+    width: fit-content;
+}
+.bleumarine{
+    background-color: #333dc5;
+    width: fit-content;
+}
+.bordeau{
+    background-color: #3a0d0d;
+    width: fit-content;
+}
+.vertfonce{
+    background-color: #132654;
+    width: fit-content;
+}
+.vert{
+    background-color: #15a24b;
+    width: fit-content;
+}
+.rouge{
+    background-color: #91072c;
+    width: fit-content;
+}
+.rose{
+    background-color: #b518b8;
+    width: fit-content;
+}
+
+
+
+
+
+
+.textgras{
+    font-weight: bold;
+}
+.textRose{
+    color: #B5145f;
+}
+.textnoire{
+    color: black;
+}
+.logo{
+    margin-right: 600px;
+    margin-left: 40px;
+}
+.lg{
+    width: 200px;
+    
+}
+nav{
+    display: flex;
+}
+.burger{
+    margin-right: 0px;
+    border-right: 1px solid rgb(220, 217, 217);
+    padding-right: 40px;
+    padding-left: 40px;
+    height: 50px;
+    
+}
+.zoneRecherche{
+    
+    border-right: 1px solid rgb(220, 217, 217);
+    padding-right: 40px;
+    padding-left: 40px;
+    height: 50px;
+
+    
+    
+}
+.zoneText{
+    
+    
+    border-bottom: 2px solid #B5145F;
+    background-color: rgba(0, 0, 0, 0.403);
+    color: white;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    
+    
+}
+
+
+.boutton{
+    padding-right: 40px;
+    padding-left: 40px;
+    height: 50px;
+    background-color: #B5145f;
+    color: azure;
+    border-radius: 20px;
+    border: none;
+    
+    
+    
+}
+.banniere{
+    width: 100%;
+    margin-bottom: 50px;
+}
+.btn{
+    padding-right: 40px;
+    padding-left: 40px;
+}
+
+
+
+
+/*icone*/
+.icone{
+    width: 50px;
+    margin: 2px;
+    
+}
+.iconeBulle{
+    width: 15px;
+}
+.icone1{
+    width: 30px;
+}
+.iconesocial2{
+    width:30px ;
+    padding-top: 30px;
+    padding-left: 10px;
+}
+.iconeradio{
+    width: 15px;
+    padding-right: 10px;
+    
+}
+.iconeflech{
+    width: 30px;
+}
+
+.social{
+    border-right: 1px solid rgb(78, 75, 75);
+    text-align: center;
+    padding-right: 40px;
+    padding-left: 40px;
+    height: 50px;
+    
+}
+.loupe{
+    width: 30px;
+    transform: rotate(90deg);
+    margin: 10px;
+    
+   
+    
+}
+
+/*main*/
+
+.main{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+main{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 20px;
+}
+.h2{
+    padding-left: 100px;
+}
+.map{
+    padding-bottom: 40px;
+    width: 100px;
+    
+}
+
+
+
+.textInscription{
+    padding-bottom: 30px;
+    color: white;
+    
+}
+.inscrit{
+    color: white;
+}
+.imginscription{
+    padding-right: 50px;
+}
+
+/* colonne droite*/
+
+.hubsenjeux{
+    display: flex;
+}
+.titrehubs{
+
+}
+ .cercle{
+    padding-top: 23px;
+    width: fit-content;
+    padding-right: 10px;
+    
+    
+ }
+    
+
+
+
+.evdate{
+    display: block;
+    justify-content: flex-start;
+    border: 1px solide rgb(220, 217, 217);
+}
+.date{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.evtgauche{
+    padding-right: 20px;
+    padding-left: 20px;
+    color: #3d1704;
+}
+.textdrt{
+    font-weight: bold;
+    color: #04313d;
+}
+
+li{
+    margin-bottom: 20px;
+
+}
+.btSavoirplus{
+    padding-bottom: 20px;
+    margin-left: 20px;
+}
+.tags{
+    margin-top: 40px;
+    border-top: 1px solid rgb(220, 217, 217);
+    width: 100%;
+   
+ 
+}
+.partage{
+    display: flex;
+    border-top: 1px solid rgb(220, 217, 217);
+
+}
+.iconepartg{
+    padding-top: 15px;
+    padding-left: 10px;
+}
+.nomEvnt1{
+    border-top: 1px solid rgb(220, 217, 217);
+    border-bottom: 1px solid rgb(220, 217, 217);
+    border-right: 1px solid rgb(220, 217, 217);
+    border-left: 5px solid rgb(10, 65, 18);
+    margin-bottom: 15px;
+}
+.nomEvnt2{
+    border-top: 1px solid rgb(220, 217, 217);
+    border-bottom: 1px solid rgb(220, 217, 217);
+    border-right: 1px solid rgb(220, 217, 217);
+    border-left: 5px solid rgba(1, 140, 153, 0.875);
+    margin-bottom: 15px;
+}
+.nomEvnt3{
+    border-top: 1px solid rgb(220, 217, 217);
+    border-bottom: 1px solid rgb(220, 217, 217);
+    border-right: 1px solid rgb(220, 217, 217);
+    border-left: 5px solid rgba(153, 44, 1, 0.875);
+    margin-bottom: 15px;
+}
+.nomEvnt4{
+    border-top: 1px solid rgb(220, 217, 217);
+    border-bottom: 1px solid rgb(220, 217, 217);
+    border-right: 1px solid rgb(220, 217, 217);
+    border-left: 5px solid rgba(1, 26, 153, 0.875);
+    margin-bottom: 15px;
+}
+.nomEvnt5{
+    border-top: 1px solid rgb(220, 217, 217);
+    border-bottom: 1px solid rgb(220, 217, 217);
+    border-right: 1px solid rgb(220, 217, 217);
+    border-left: 5px solid rgba(9, 98, 106, 0.875);
+    margin-bottom: 15px;
+}
+
+
+.btninscription{
+    
+    padding-right: 40px;
+    padding-left: 40px;
+    height: 50px;
+    background-color: white;
+    color: #B5145f;
+    font-weight: bold;
+    border-radius: 30px;
+    border: none;
+    
+
+}
+
+
+
+
+/*Fin main*/
+.colonneGauche{
+    padding-right: 200px;
+    
+}
+.event{
+    display: flex;
+    border-left: 4px solid #056671;
+    border-bottom: 1px solid rgb(220, 217, 217);
+    border-right: 1px solid rgb(220, 217, 217);
+    border-top: 1px solid rgb(220, 217, 217);
+    border-radius:3px ;
+    padding-right: 20px;
+}
+.event li{
+    color: #04313d;
+    
+    
+}
+
+
+.colonneDroite{
+    border-left: 1px solid rgb(220, 217, 217);
+    padding-left: 40px;
+    margin-bottom: 20px;
+
+}
+.inscription{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    background:url(./images/Fond_rose.png) no-repeat;
+    padding-top: 20px;
+    width: 100%;
+    background-size: cover;
+    border-radius: 10px;
+    
+}
+
+    
+footer{
+    background: black;
+    
+}
+footer p{
+    color: white;
+    
+}
+.hautfooter{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    margin-bottom: 20px;
+    
+    
+}
+.hautGauche{
+    display: flex;
+    padding-right: 40px;
+    border-right: 1px solid  rgb(56, 53, 53);
+   
+}
+.hautDroite{
+    display: flex;
+    padding-left: 40px;
+}
+.Basfouteur{
+    display: flex;
+    justify-content: center;
+    border-top: 1px solid rgb(56, 53, 53);
+    margin-left: 450px;
+    margin-right: 400px;
+    padding-top: 10px;
+    padding-right: 70px;
+}
+.mail{
+    padding-top: 40px;
+    
+}
+.nexsletter{
+    padding-top: 10px;
+    padding-right: 20px;
+}
+.cfgm li{
+    color: white;
+    display: flex;
+    padding-left: 20px;
+
+}
+.cfgm ul{
+    display: flex;
+    border-left: 1px solid  rgb(56, 53, 53);
+
+}
+.syts{
+    padding-right: 60px;
+}
+.btnInscrit{
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+.boutton1{
+   
+    height: 40px;
+    background-color: #B5145f;
+    color: azure;
+    border-radius: 20px;
+    border: none;
+    
+
+}
+.nousSuivre{
+    padding-top: 20px;
+}
